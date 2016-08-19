@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from a long time ago there lived a character whose name
 is 
 
@@ -32,3 +33,16 @@ including cabbage, carrots, onions, potatoes and tomatoes. It may include meat, 
 
 
 
+=======
+Veooz algorithmic engine continuously discovers 
+
+
+and analyzes more than 100,000 news / magazine / 
+
+
+blog sources and millions of social media posts, pictures, 
+
+
+
+videos, to present you the right mix of stories in the feeds.
+>>>>>>> 23665ebc626ca4a772ebb37974aa8687ab77a23c
